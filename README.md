@@ -48,6 +48,6 @@ https://www.runoob.com/w3cnote/git-gui-window.html
 该操作会自动将配置及相关信息加入到gitgui中。
 
 3、添加、修改、删除文件/内容，更改后，操作步骤，如下：
-（1）Stage Changed：暂存
+（1）Stage Changed：缓存改动（即：暂存）
 （2）Commit：提交
-（3）Push：推送【该功能执行，直接到了对应的服务器上，例如：github上】
+（3）Push：上传（即：推送）【该功能执行，直接到了对应的服务器上，例如：github上】
